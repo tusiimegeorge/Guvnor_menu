@@ -344,8 +344,8 @@ export default function MenuPage() {
     {
       name: "Pitcher",
       description:
-        "Comes in different flavours and is defined by a balance of sweet, sour, bitter, and spirit-forward notes, varying widely based on the specific recipe.",
-      price: "UGX 100,000",
+        "Very tasty, very fruit sweet-tart. Crisp apple, tangy grenadine, and sour lemon all playing nicely with a bit of herbal gin backdrop",
+      price: "UGX 10,000",
     },
   ]
 

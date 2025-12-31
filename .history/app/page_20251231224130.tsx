@@ -278,7 +278,7 @@ export default function MenuPage() {
     {
       name: "Martiniz",
       description:
-        "Comes in different Flavours & Delivers a clean, crisp, and predominantly dry flavor profile with botanical notes from gin, subtle herbal complexity from vermouth, and a hint of bitterness from optional garnishes like olives or lemon twist",
+        "Comes in different Delivers a clean, crisp, and predominantly dry flavor profile with botanical notes from gin, subtle herbal complexity from vermouth, and a hint of bitterness from optional garnishes like olives or lemon twist",
       price: "UGX 30,000",
     },
   ]
@@ -340,12 +340,6 @@ export default function MenuPage() {
       description:
         "Very tasty, very fruit sweet-tart. Crisp apple, tangy grenadine, and sour lemon all playing nicely with a bit of herbal gin backdrop",
       price: "UGX 40,000",
-    },
-    {
-      name: "Pitcher",
-      description:
-        "Comes in different flavours and is defined by a balance of sweet, sour, bitter, and spirit-forward notes, varying widely based on the specific recipe.",
-      price: "UGX 100,000",
     },
   ]
 
