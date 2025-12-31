@@ -94,7 +94,7 @@ export function QRCodeSection() {
           </div>
 
           <p className="mt-6 text-sm text-muted-foreground dark:text-muted-foreground">
-            Scan the QR code for menu access
+             the QR code on your tables for easy menu access
           </p>
         </div>
       </div>
