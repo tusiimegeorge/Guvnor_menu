@@ -104,6 +104,8 @@ export default function MenuPage() {
     { name: "Remy Martin V.S.O.P", bottlePrice: "UGX 850,000" },
     { name: "Martel V.S.O.P", bottlePrice: "UGX 750,000" },
     { name: "Hennessy V.S.O.P", bottlePrice: "UGX 800,000" },
+    { name: "Hennessy Vs", bottlePrice: "UGX 800,000" },
+    { name: "Martel Blue Swift", bottlePrice: "UGX 650,000" },
   ]
 
   const whiskiesScotch = [
