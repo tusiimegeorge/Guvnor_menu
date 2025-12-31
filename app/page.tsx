@@ -474,6 +474,63 @@ export default function MenuPage() {
     { name: "Sausages (3pcs)", description: "", price: "UGX 15,000" },
   ]
 
+  // SHISHA MENU DATA
+  const classicFlavors = [
+    { name: "Mint", price: "UGX 50,000" },
+    { name: "Vanilla", price: "UGX 50,000" },
+    { name: "Gum", price: "UGX 50,000" },
+    { name: "Blue Berry", price: "UGX 50,000" },
+    { name: "Grape", price: "UGX 50,000" },
+    { name: "Sultan", price: "UGX 50,000" },
+    { name: "Magic love", price: "UGX 50,000" },
+    { name: "Strawberry ", price: "UGX 50,000" },
+    { name: "Watermelon ", price: "UGX 50,000" },
+    { name: "Mint", price: "UGX 50,000" },
+    { name: "Sweet Melon", price: "UGX 50,000" },
+    { name: "Kiwi", price: "UGX 50,000" },
+    //{ name: "Guava", price: "UGX 50,000" },
+    //{ name: "Bubble Gum", price: "UGX 50,000" },
+    //{ name: "Paan Masala", price: "UGX 50,000" },
+  ]
+
+  const exoticFlavors = [
+    { name: "Biscuit", price: "UGX 50,000" },
+    { name: "Moskow", price: "UGX 50,000" },
+    { name: "Leydi", price: "UGX 50,000" },
+    { name: "Pismis", price: "UGX 50,000" },
+    { name: "Love 66", price: "UGX 50,000" },
+    { name: "Apple", price: "UGX 50,000" },
+    { name: "Dejavu", price: "UGX 50,000" },
+    { name: "Roman", price: "UGX 50,000" },
+    { name: "Kiui", price: "UGX 50,000" },
+  ]
+
+  /**const shishaPackages = [
+    {
+      name: "Regular Shisha Package",
+      description: "1 Shisha with 1 flavor + 1 coal",
+      price: "UGX 35,000",
+    },
+    {
+      name: "Premium Shisha Package",
+      description: "1 Shisha with 2 mixed flavors + 2 coals",
+      price: "UGX 50,000",
+    },
+    {
+      name: "Royal Shisha Package",
+      description: "1 Shisha with 3 mixed flavors + 3 coals + fruit bowl",
+      price: "UGX 70,000",
+    },
+  ]
+
+  const extraCoals = [
+    { 
+      name: "Additional Coal", 
+      description: "Extra coal for shisha", 
+      price: "UGX 5,000" 
+    },
+  ]**/
+
   return (
     <ThemeProvider
       attribute="class"
@@ -628,6 +685,23 @@ export default function MenuPage() {
                 image="/gourmet-burgers-and-grilled-dishes-on-dark-elegant.jpg"
               />
               <MenuSection title="Side Orders" items={sideOrders} image="/side-order.jpg" />
+            </div>
+          </div>
+
+          {/* SHISHA MENU SECTION */}
+          <div className="mb-16">
+            <MenuSection title="SHISHA MENU" items={[]} isMainSection={true} />
+            <div className="mt-8 space-y-12">
+              <MenuSection
+                title="Classic Flavors"
+                items={classicFlavors}
+                image="/green-steaming-hookah-table-tea-side-view.jpg"
+              />
+              <MenuSection
+                title="Exotic Flavors"
+                items={exoticFlavors}
+                image="/hookah-decorated-with-orange-flowers-tea-with-sweets-table.jpg"
+              />
             </div>
           </div>
         </div>

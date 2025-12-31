@@ -129,3 +129,22 @@
 .dark img {
   filter: brightness(0.9);
 }
+
+/* Optional: Enhance shisha images in dark mode for better visibility */
+.dark img[src*="shisha"],
+.dark img[src*="hookah"] {
+  filter: brightness(0.85) contrast(1.1);
+}
+
+/* Print styles - ensure shisha menu prints well */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  /* Ensure good contrast when printed */
+  .shisha-section * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

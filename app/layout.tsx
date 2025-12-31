@@ -5,11 +5,12 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Guvnor - Menu",
-  description: "Premium drinks & exceptional service at Guvnor Club, Uganda",
+  title: "Guvnor Club - Drinks, Food & Shisha Menu",
+  description: "Premium drinks, exceptional service, and premium shisha at Guvnor Club, Uganda. Whatever Your Mood, We've Got The Colour!",
   icons: {
     icon: "/logo.png",
   },
+  keywords: ["Guvnor Club", "Kampala nightclub", "drinks menu", "shisha", "cocktails", "Uganda nightlife", "hookah", "premium shisha"],
 }
 
 export default function RootLayout({
