@@ -207,7 +207,7 @@ export default function MenuPage() {
     { name: "Four Cousins 1.5 ltrs", bottlePrice: "UGX 180,000" },
     { name: "Fourth Street 750ml", bottlePrice: "UGX 120,000" },
     { name: "Robertson 1.5ltrs", bottlePrice: "UGX 180,000" },
-    { name: "Robertson 750ml", bottlePrice: "UGX 120,000" },
+    { name: "Robertson 750", bottlePrice: "UGX 180,000" },
   ]
 
   const sparklingBubbly = [

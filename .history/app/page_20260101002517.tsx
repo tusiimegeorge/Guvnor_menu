@@ -117,7 +117,7 @@ export default function MenuPage() {
   const brandy = [
     { name: "Viceroy", bottlePrice: "UGX 180,000", totPrice: "UGX 5,000" },
     { name: "Courvoisier V.S.O.P", bottlePrice: "UGX 600,000" },
-    { name: "Remy Martin V.S.O.P", bottlePrice: "UGX 850,000", totPrice: "UGX 25,000" },
+    { name: "Remy Martin V.S.O.P", bottlePrice: "UGX 850,000",  },
     { name: "Martel V.S.O.P", bottlePrice: "UGX 750,000" },
     { name: "Hennessy V.S.O.P", bottlePrice: "UGX 800,000", totPrice: "UGX 25,000"},
     { name: "Hennessy XO", bottlePrice: "UGX 2,600,000" },
@@ -141,7 +141,7 @@ export default function MenuPage() {
 
   const bourbons = [
     { name: "Jack Daniels", bottlePrice: "UGX 350,000", totPrice: "UGX 10,000" },
-    { name: "Jack Daniel Honey", bottlePrice: "UGX 450,000", totPrice: "UGX 12,000" },
+    { name: "Jack Daniel Honey", bottlePrice: "UGX 450,000" },
   ]
 
   const johnnieWalker = [
@@ -207,7 +207,6 @@ export default function MenuPage() {
     { name: "Four Cousins 1.5 ltrs", bottlePrice: "UGX 180,000" },
     { name: "Fourth Street 750ml", bottlePrice: "UGX 120,000" },
     { name: "Robertson 1.5ltrs", bottlePrice: "UGX 180,000" },
-    { name: "Robertson 750ml", bottlePrice: "UGX 120,000" },
   ]
 
   const sparklingBubbly = [

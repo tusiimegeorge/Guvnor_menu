@@ -108,7 +108,7 @@ export default function MenuPage() {
     { name: "Gordon's", bottlePrice: "UGX 240,000", totPrice: "UGX 8,000" },
     { name: "Gordon's Pink", bottlePrice: "UGX 220,000", totPrice: "UGX 8,000" },
     { name: "Beefeater's Pink 750 ml", bottlePrice: "UGX 160,000", totPrice: "UGX 6,000" },
-    { name: "Beefeater's Pink 1ltr", bottlePrice: "UGX 200,000", totPrice: "UGX 6,000" },
+    { name: "Beefeater's Pink 1ltr", bottlePrice: "UGX 20,000", totPrice: "UGX 6,000" },
     { name: "Beefeater Gin", bottlePrice: "UGX 200,000", totPrice: "UGX 6,000" },
     { name: "Bombay Sapphire", bottlePrice: "UGX 250,000", totPrice: "UGX 7,000" },
     { name: "Hendrick's", bottlePrice: "UGX 450,000" },
@@ -117,9 +117,9 @@ export default function MenuPage() {
   const brandy = [
     { name: "Viceroy", bottlePrice: "UGX 180,000", totPrice: "UGX 5,000" },
     { name: "Courvoisier V.S.O.P", bottlePrice: "UGX 600,000" },
-    { name: "Remy Martin V.S.O.P", bottlePrice: "UGX 850,000", totPrice: "UGX 25,000" },
+    { name: "Remy Martin V.S.O.P", bottlePrice: "UGX 850,000" },
     { name: "Martel V.S.O.P", bottlePrice: "UGX 750,000" },
-    { name: "Hennessy V.S.O.P", bottlePrice: "UGX 800,000", totPrice: "UGX 25,000"},
+    { name: "Hennessy V.S.O.P", bottlePrice: "UGX 800,000" },
     { name: "Hennessy XO", bottlePrice: "UGX 2,600,000" },
     //{ name: "Martel Blue Swift", bottlePrice: "UGX 650,000" },
     //{ name: "Courvoisier Vs", bottlePrice: "UGX 650,000" },
@@ -141,7 +141,7 @@ export default function MenuPage() {
 
   const bourbons = [
     { name: "Jack Daniels", bottlePrice: "UGX 350,000", totPrice: "UGX 10,000" },
-    { name: "Jack Daniel Honey", bottlePrice: "UGX 450,000", totPrice: "UGX 12,000" },
+    { name: "Jack Daniel Honey", bottlePrice: "UGX 450,000" },
   ]
 
   const johnnieWalker = [
@@ -207,7 +207,6 @@ export default function MenuPage() {
     { name: "Four Cousins 1.5 ltrs", bottlePrice: "UGX 180,000" },
     { name: "Fourth Street 750ml", bottlePrice: "UGX 120,000" },
     { name: "Robertson 1.5ltrs", bottlePrice: "UGX 180,000" },
-    { name: "Robertson 750ml", bottlePrice: "UGX 120,000" },
   ]
 
   const sparklingBubbly = [
