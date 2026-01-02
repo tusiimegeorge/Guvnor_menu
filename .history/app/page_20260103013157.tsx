@@ -300,12 +300,7 @@ export default function MenuPage() {
     },
     {
       name: "Screw Driver",
-      description: "A taste of bitter Vodka and sweet Orange juice",
-      price: "UGX 30,000",
-    },
-    {
-      name: "Strawberry Daiquiri",
-      description: "A sweet, fruity, and refreshing taste with a tart, zesty finish.",
+      description: "aste of bitter Vodka and sweet Orange juice",
       price: "UGX 30,000",
     },
   ]

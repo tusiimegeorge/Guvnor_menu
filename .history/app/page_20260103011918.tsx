@@ -282,31 +282,11 @@ export default function MenuPage() {
       description:
         "Comes in different Flavours & Delivers a clean, crisp, and predominantly dry flavor profile with botanical notes from gin, subtle herbal complexity from vermouth, and a hint of bitterness from optional garnishes like olives or lemon twist",
       price: "UGX 30,000",
-    },
-    {
+      {
       name: "Cosmopolitan",
       description: "tastes tart, fruity, and citrusy, balancing sweet cranberry and orange notes with sharp lime, all smoothed out by vodka for a refreshing, crisp, and sophisticated sip that's easy to drink.",
       price: "UGX 35,000",
     },
-    {
-      name: "Kamikaze",
-      description: "A balance of sweet and sour, tartness and the strong punch by vodka",
-      price: "UGX 30,000",
-    },
-    {
-      name: "Manhattan",
-      description: "rich, warming, and just the right amount of sweet.",
-      price: "UGX 30,000",
-    },
-    {
-      name: "Screw Driver",
-      description: "A taste of bitter Vodka and sweet Orange juice",
-      price: "UGX 30,000",
-    },
-    {
-      name: "Strawberry Daiquiri",
-      description: "A sweet, fruity, and refreshing taste with a tart, zesty finish.",
-      price: "UGX 30,000",
     },
   ]
 

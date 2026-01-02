@@ -305,7 +305,7 @@ export default function MenuPage() {
     },
     {
       name: "Strawberry Daiquiri",
-      description: "A sweet, fruity, and refreshing taste with a tart, zesty finish.",
+      description: "a sweet, fruity, and refreshing taste with a tart, zesty finish.",
       price: "UGX 30,000",
     },
   ]
