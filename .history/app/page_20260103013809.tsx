@@ -119,7 +119,7 @@ export default function MenuPage() {
     { name: "Courvoisier V.S.O.P", bottlePrice: "UGX 600,000" },
     { name: "Remy Martin V.S.O.P", bottlePrice: "UGX 850,000", totPrice: "UGX 25,000" },
     { name: "Martel V.S.O.P", bottlePrice: "UGX 750,000" },
-    //{ name: "Hennessy V.S.O.P", bottlePrice: "UGX 800,000", totPrice: "UGX 25,000"},
+    { name: "Hennessy V.S.O.P", bottlePrice: "UGX 800,000", totPrice: "UGX 25,000"},
     { name: "Hennessy XO", bottlePrice: "UGX 2,600,000" },
     //{ name: "Martel Blue Swift", bottlePrice: "UGX 650,000" },
     //{ name: "Courvoisier Vs", bottlePrice: "UGX 650,000" },
