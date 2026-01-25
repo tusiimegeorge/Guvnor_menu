@@ -122,7 +122,7 @@ export default function MenuPage() {
     { name: "Hennessy V.S.O.P", bottlePrice: "UGX 800,000", totPrice: "UGX 25,000"},
     { name: "Hennessy XO", bottlePrice: "UGX 2,600,000" },
     { name: "Martel XO 750mls", bottlePrice: "UGX 3,000,000" },
-     { name: "Martel XO 1ltr", bottlePrice: "UGX 4,000,000" },
+     { name: "Martel XO 750mls", bottlePrice: "UGX 3,000,000" },
     //{ name: "Martel Blue Swift", bottlePrice: "UGX 650,000" },
     //{ name: "Courvoisier Vs", bottlePrice: "UGX 650,000" },
   ]
