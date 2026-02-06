@@ -321,7 +321,7 @@ export default function MenuPage() {
   {
       name: "Pink lady",
       description: "Gin, grenadine,lemon juice,egg white",
-      price: "UGX 30,000",
+      price: "UGX 35,000",
     },
     {
       name: "Long Island",

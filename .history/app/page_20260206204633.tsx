@@ -241,11 +241,6 @@ export default function MenuPage() {
 
   // COCKTAILS MENU DATA
   const classicCocktails = [
-  {
-      name: "Guvnor 75",
-      description: "Gin, lemon juice, sugar syrup,sparkling wine",
-      price: "UGX 30,000",
-    },
     { name: "Whisky Sour", description: "Perfect classic cocktail made with Johnnie Walker", price: "UGX 30,000" },
     {
       name: "Mojito",
@@ -319,9 +314,9 @@ export default function MenuPage() {
 
   const tropicalCocktails = [
   {
-      name: "Pink lady",
-      description: "Gin, grenadine,lemon juice,egg white",
-      price: "UGX 30,000",
+      name: "Long Island",
+      description: "Tastes and looks remarkably like a light sweet tea!",
+      price: "UGX 35,000",
     },
     {
       name: "Long Island",
