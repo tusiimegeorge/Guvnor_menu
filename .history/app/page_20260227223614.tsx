@@ -119,8 +119,10 @@ export default function MenuPage() {
     { name: "Courvoisier V.S.O.P", bottlePrice: "UGX 600,000" },
     { name: "Remy Martin V.S.O.P", bottlePrice: "UGX 850,000", totPrice: "UGX 25,000" },
     { name: "Martel V.S.O.P", bottlePrice: "UGX 750,000" },
-    //{ name: "Hennessy V.S.O.P", bottlePrice: "UGX 800,000", totPrice: "UGX 25,000"},
+    { name: "Hennessy V.S.O.P", bottlePrice: "UGX 800,000", totPrice: "UGX 25,000"},
     { name: "Hennessy XO", bottlePrice: "UGX 2,600,000" },
+    { name: "Martel XO 750mls", bottlePrice: "UGX 3,000,000" },
+     { name: "Martel XO 1ltr", bottlePrice: "UGX 4,000,000" },
     //{ name: "Martel Blue Swift", bottlePrice: "UGX 650,000" },
     //{ name: "Courvoisier Vs", bottlePrice: "UGX 650,000" },
   ]
@@ -239,6 +241,11 @@ export default function MenuPage() {
 
   // COCKTAILS MENU DATA
   const classicCocktails = [
+  {
+      name: "Guvnor 75",
+      description: "Gin, lemon juice, sugar syrup,sparkling wine",
+      price: "UGX 30,000",
+    },
     { name: "Whisky Sour", description: "Perfect classic cocktail made with Johnnie Walker", price: "UGX 30,000" },
     {
       name: "Mojito",
@@ -311,6 +318,11 @@ export default function MenuPage() {
   ]
 
   const tropicalCocktails = [
+  {
+      name: "Pink lady",
+      description: "Gin, grenadine,lemon juice,egg white",
+      price: "UGX 30,000",
+    },
     {
       name: "Long Island",
       description: "Tastes and looks remarkably like a light sweet tea!",
@@ -495,6 +507,11 @@ export default function MenuPage() {
     {
       name: "Grilled 1/4 Chicken",
       description: "served with chips",
+      price: "UGX 30,000",
+    },
+    {
+      name: "Grilled Chicken Sandwich",
+      description: "",
       price: "UGX 30,000",
     },
   ]

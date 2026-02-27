@@ -509,6 +509,11 @@ export default function MenuPage() {
       description: "served with chips",
       price: "UGX 30,000",
     },
+    {
+      name: "Grilled Chicken Sandwich",
+      description: "perfect taste",
+      price: "UGX 35,000",
+    },
   ]
 
   const sideOrders = [
