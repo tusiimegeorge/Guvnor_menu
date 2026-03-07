@@ -103,7 +103,7 @@ export default function MenuPage() {
 
   const gin = [
     { name: "Uganda Waragi", bottlePrice: "UGX 120,000", totPrice: "UGX 4,000" },
-    { name: "Uganda Waragi Lemon & Ginger", bottlePrice: "UGX 140,000", totPrice: "UGX 5,000" },
+    { name: "Uganda Waragi Lemon &", bottlePrice: "UGX 120,000", totPrice: "UGX 4,000" },
     { name: "Tanqueray 10", bottlePrice: "UGX 600,000", totPrice: "UGX 17,000" },
     { name: "Tanqueray", bottlePrice: "UGX 420,000", totPrice: "UGX 12,000" },
     { name: "Gordon's", bottlePrice: "UGX 240,000", totPrice: "UGX 8,000" },
