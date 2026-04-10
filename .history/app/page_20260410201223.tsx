@@ -103,6 +103,7 @@ export default function MenuPage() {
 
   const gin = [
     { name: "Uganda Waragi", bottlePrice: "UGX 120,000", totPrice: "UGX 4,000" },
+    { name: "Uganda Waragi Lemon & Ginger", bottlePrice: "UGX 140,000", totPrice: "UGX 5,000" },
     { name: "Tanqueray 10", bottlePrice: "UGX 600,000", totPrice: "UGX 17,000" },
     { name: "Tanqueray", bottlePrice: "UGX 420,000", totPrice: "UGX 12,000" },
     { name: "Gordon's", bottlePrice: "UGX 240,000", totPrice: "UGX 8,000" },
@@ -243,7 +244,7 @@ export default function MenuPage() {
   const classicCocktails = [
   {
       name: "Guvnor 75",
-      description: "Gin",
+      description: "Gin, lemon juice, sugar syrup,sparkling wine",
       price: "UGX 30,000",
     },
     { name: "Whisky Sour", description: "Perfect classic cocktail made with Johnnie Walker", price: "UGX 30,000" },
@@ -321,7 +322,7 @@ export default function MenuPage() {
   {
       name: "Pink lady",
       description: "Gin, grenadine,lemon juice,egg white",
-      price: "UGX 35,000",
+      price: "UGX 30,000",
     },
     {
       name: "Long Island",
@@ -496,18 +497,23 @@ export default function MenuPage() {
       name: "Govnor Jumbo Platter",
       description:
         "Guvnor's jumbo platter serves 6-8 people (1/4 Chicken, fish fingers, beef skewers and Sausages accompanied with plantain and chips).",
-      price: "UGX 130,000",
+      price: "UGX 150,000",
     },
     {
       name: "Govnor Standard Platter",
       description:
         "The standard platter serves 4 people (1/4 Chicken, fish fingers, beef skewers, Sausages and a choice of chips or potatoes wedges).",
-      price: "UGX 100,000",
+      price: "UGX 120,000",
     },
     {
       name: "Grilled 1/4 Chicken",
       description: "served with chips",
       price: "UGX 30,000",
+    },
+    {
+      name: "Grilled Chicken Sandwich",
+      description: "perfect taste",
+      price: "UGX 35,000",
     },
   ]
 

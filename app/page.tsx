@@ -497,13 +497,13 @@ export default function MenuPage() {
       name: "Govnor Jumbo Platter",
       description:
         "Guvnor's jumbo platter serves 6-8 people (1/4 Chicken, fish fingers, beef skewers and Sausages accompanied with plantain and chips).",
-      price: "UGX 130,000",
+      price: "UGX 150,000",
     },
     {
       name: "Govnor Standard Platter",
       description:
         "The standard platter serves 4 people (1/4 Chicken, fish fingers, beef skewers, Sausages and a choice of chips or potatoes wedges).",
-      price: "UGX 100,000",
+      price: "UGX 120,000",
     },
     {
       name: "Grilled 1/4 Chicken",
