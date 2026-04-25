@@ -515,18 +515,7 @@ export default function MenuPage() {
       description: "perfect taste",
       price: "UGX 35,000",
     },
-     {
-      name: "Chicken pizza",
-      description:
-        "Chicken toppings, cheese and vegetables.",
-      price: "UGX 50,000",
-    },
-    {
-      name: "Medium Chicken pizza",
-      description:
-        "Chicken toppings, cheese and vegetables.",
-      price: "UGX 35,000",
-    },
+    
   ]
 
   const sideOrders = [
@@ -535,7 +524,6 @@ export default function MenuPage() {
     { name: "Chips Masala", description: "", price: "UGX 12,000" },
     { name: "Potatoes Wedges", description: "", price: "UGX 10,000" },
     { name: "Sausages (3pcs)", description: "", price: "UGX 15,000" },
-    { name: "Popcorn", description: "", price: "UGX 5,000" },
   ]
 
   // SHISHA MENU DATA
