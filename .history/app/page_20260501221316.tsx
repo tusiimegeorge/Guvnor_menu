@@ -528,16 +528,10 @@ export default function MenuPage() {
       price: "UGX 35,000",
     },
     {
-      name: "Chicken/Beef Wraps ",
+      name: "",
       description:
-        "Chicken/Beef topped with cheddar cheese.",
+        "Chicken toppings, cheese and vegetables.",
       price: "UGX 35,000",
-    },
-    {
-      name: "Veggie Wraps",
-      description:
-        "Veggies topped with cheddar cheese.",
-      price: "UGX 30,000",
     },
   ]
 

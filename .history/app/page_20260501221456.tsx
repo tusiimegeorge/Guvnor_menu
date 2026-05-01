@@ -533,12 +533,7 @@ export default function MenuPage() {
         "Chicken/Beef topped with cheddar cheese.",
       price: "UGX 35,000",
     },
-    {
-      name: "Veggie Wraps",
-      description:
-        "Veggies topped with cheddar cheese.",
-      price: "UGX 30,000",
-    },
+    
   ]
 
   const sideOrders = [

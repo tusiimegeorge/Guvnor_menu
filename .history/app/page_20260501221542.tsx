@@ -536,7 +536,7 @@ export default function MenuPage() {
     {
       name: "Veggie Wraps",
       description:
-        "Veggies topped with cheddar cheese.",
+        "Chicken toppings, cheese and vegetables.",
       price: "UGX 30,000",
     },
   ]

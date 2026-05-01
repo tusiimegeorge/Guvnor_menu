@@ -534,10 +534,10 @@ export default function MenuPage() {
       price: "UGX 35,000",
     },
     {
-      name: "Veggie Wraps",
+      name: "Medium Chicken pizza",
       description:
-        "Veggies topped with cheddar cheese.",
-      price: "UGX 30,000",
+        "Chicken toppings, cheese and vegetables.",
+      price: "UGX 35,000",
     },
   ]
 
