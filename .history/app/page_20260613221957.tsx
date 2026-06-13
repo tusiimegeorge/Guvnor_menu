@@ -17,7 +17,7 @@ export default function MenuPage() {
     { name: "Black Tea/Coffee", price: "UGX 8,000" },
     { name: "African Tea/Coffee", price: "UGX 10,000" },
     { name: "Juice", price: "UGX 30,000" },
-    { name: "Cranberry", price: "UGX 50,000" },
+    { name: "Cranberry", price: "UGX 0,000" },
   ]
 
   const beers = [
