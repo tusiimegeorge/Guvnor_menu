@@ -93,7 +93,7 @@ export default function MenuPage() {
     { name: "Don Julio Blanco", bottlePrice: "UGX 650,000" },
     { name: "Don Julio Resposado", bottlePrice: "UGX 650,000" },
     { name: "Don Julio Anejo", bottlePrice: "UGX 650,000" },
-    { name: "Don Julio 1942", bottlePrice: "UGX 2,000,000" },
+    { name: "Don Julio 1942", bottlePrice: "UGX 2,200,000" },
     { name: "Patron Coffee", bottlePrice: "UGX 550,000" },
     { name: "Patron Silver", bottlePrice: "UGX 650,000" },
     { name: "Drambua", bottlePrice: "UGX 400,000", totPrice: "UGX 10,000" },
