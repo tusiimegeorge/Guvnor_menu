@@ -411,7 +411,7 @@ export default function MenuPage() {
       name: "Pinacolada",
       description:
         "Smooth, sweet and creamy. It has a refreshing and citrusy taste with the rich creaminess of coconut, tangy sweetness of fresh pineapple and Malibu Original white rum with coconut flavor for a burst of tropical taste.",
-      price: "UGX 20,000",
+      price: "UGX 30,000",
     },
   ]
 
